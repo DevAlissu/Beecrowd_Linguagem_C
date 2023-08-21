@@ -38,17 +38,19 @@
   </ol>
 </div>
 
-```
-function saudacao(nome) {
-    console.log("Olá, " + nome + "!");
-  }
-  saudacao("João");
-```
 
 
 <div id="1" align="left"> 
   <h2>Hello World - 1000</h2><br>
 
+```
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World!\n");
+}
+```
 </div>
 <div id="2" align="left"> 
   <h2>Hello World - 1000</h2><br>
