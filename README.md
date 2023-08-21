@@ -46,7 +46,7 @@
 <div align="center">  
   <img alt="beecrowd" width="540" src="https://github.com/DevAlissu/Beecrowd_Linguagem_C/blob/main/assets/problemas_img/helloworld.png?raw=true">
 </div>  
-<div>
+<div align="center">
   <h4><i>O seu primeiro programa em qualquer linguagem de programação normalmente é o "Hello World!". Neste primeiro problema tudo o que você precisa fazer
   é imprimir esta mensagem na tela. </i></h4>
 </div>
