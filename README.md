@@ -42,7 +42,9 @@
 
 <div id="1" align="left"> 
   <h2>Hello World - 1000</h2><br>
-
+<div id="1" align="center">  <img alt="beecrowd" width="540" src="https://github.com/DevAlissu/Beecrowd_Linguagem_C/blob/main/assets/problemas_img/helloworld.png?raw=true">
+</div>  
+  
 ```
 #include <stdio.h>
 
