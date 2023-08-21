@@ -41,9 +41,16 @@
 
 
 <div id="1" align="left"> 
-  <h2>Hello World - 1000</h2><br>
-<div id="1" align="center">  <img alt="beecrowd" width="540" src="https://github.com/DevAlissu/Beecrowd_Linguagem_C/blob/main/assets/problemas_img/helloworld.png?raw=true">
+  <h2>Hello World - 1000</h2>
+  <br>
+<div align="center">  
+  <img alt="beecrowd" width="540" src="https://github.com/DevAlissu/Beecrowd_Linguagem_C/blob/main/assets/problemas_img/helloworld.png?raw=true">
 </div>  
+<div>
+  <h4><i>O seu primeiro programa em qualquer linguagem de programação normalmente é o "Hello World!". Neste primeiro problema tudo o que você precisa fazer
+  é imprimir esta mensagem na tela. </i></h4>
+</div>
+
   
 ```
 #include <stdio.h>
