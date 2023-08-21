@@ -1,6 +1,6 @@
 <div id="top">
              <div align="center" >
-              <img alt="beecrowd" width="100%" src="https://github.com/DevAlissu/Beecrowd_Linguagem_C/blob/main/assets/beecrowdiniciante.jpg?raw=true">
+              <img alt="beecrowd" width="100%" src="https://github.com/DevAlissu/Beecrowd_Linguagem_C/blob/main/assets/beecrowdiniciante.gif?raw=true">
              </div>
  </div>
 
